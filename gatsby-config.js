@@ -7,14 +7,14 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitle: `Tiote Biotech`,
-    siteTitleAlt: `Home - Tiote Biotech Labs`,
-    siteHeadline: `Tiote Biotech - Laboratorios`,
+    siteTitle: `VCBiotech SRL`,
+    siteTitleAlt: `Home - VCBiotech Solutions`,
+    siteHeadline: `VCBiotech - Sistemas Inteligentes`,
     siteUrl: `https://tiotebio.tech`,
-    siteDescription: `Tu laboratorio de Biotecnología para experimentos moleculares.`,
-    siteLanguage: `en`,
+    siteDescription: `Tu solución en sistemas inteligentes para gestión de negocios.`,
+    siteLanguage: `es`,
     siteImage: `/banner.jpg`,
-    author: `Tiote Biotech Group (TBG)`,
+    author: `VCBiotech Group`,
   },
   plugins: [
     {
